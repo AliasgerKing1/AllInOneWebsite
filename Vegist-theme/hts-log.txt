@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 27 Dec 2022 11:08:03 at https://spacingtech.com/html/vegist-final/vegist/index14.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://spacingtech.com/html/vegist-final/vegist/index14.html -O1 "C:\My Web Sites\Vegist" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:12:02	Warning: 	File not parsed, looks like binary: https://spacingtech.com/html/vegist-final/vegist/fonts/Simple-Line-Icons.woff2?v=2.4.0
+11:12:03	Warning: 	File not parsed, looks like binary: https://spacingtech.com/html/vegist-final/vegist/fonts/fontawesome-webfont.woff2?v=4.7.0
+11:12:03	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://spacingtech.com/html/vegist-final/vegist/css/font-awesome.min.css)
+11:12:03	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/fonts/themify.svg?-fvbane (from https://spacingtech.com/html/vegist-final/vegist/css/themify-icons.css)
+11:12:03	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/css/owl.video.play.png (from https://spacingtech.com/html/vegist-final/vegist/css/owl.carousel.min.css)
+11:12:03	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/blog.html (from https://spacingtech.com/html/vegist-final/vegist/index4.html)
+11:12:12	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/youtube.com (from https://spacingtech.com/html/vegist-final/vegist/index12.html)
+11:12:13	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/blog-5.html (from https://spacingtech.com/html/vegist-final/vegist/blog-style-7-right-list-blog.html)
+11:12:13	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/blog-2.html (from https://spacingtech.com/html/vegist-final/vegist/blog-style-7-right-list-blog.html)
+11:12:13	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/blog-3.html (from https://spacingtech.com/html/vegist-final/vegist/blog-style-7-right-list-blog.html)
+11:12:13	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/blog-4.html (from https://spacingtech.com/html/vegist-final/vegist/blog-style-7-right-list-blog.html)
+11:12:13	Error: 	"Not Found" (404) at link https://spacingtech.com/html/vegist-final/vegist/blog-1.html (from https://spacingtech.com/html/vegist-final/vegist/blog-style-7-right-list-blog.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 10 seconds : 880 links scanned, 869 files written (89880036 bytes overall) [90123551 bytes received at 360494 bytes/sec], 23.7 requests per connection
+(10 errors, 2 warnings, 0 messages)
