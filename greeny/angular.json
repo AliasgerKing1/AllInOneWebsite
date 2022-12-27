@@ -30,10 +30,18 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/animate.css",
+	            "src/assets/css/icon-fonts.css",
+	            "src/assets/css/main.css",
+	            "src/assets/css/responsive.css",
+              "engine1/style.css"
             ],
             "scripts": [
-
+              "src/assets/js/jquery.js",
+              "src/assets/js/plugins.js",
+              "src/assets/js/jquery.main.js"
             ]
           },
           "configurations": {
@@ -102,5 +110,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e7e52341-7f1c-4de0-b338-778f7eb96840"
   }
 }
